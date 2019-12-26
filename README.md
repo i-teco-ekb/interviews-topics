@@ -40,4 +40,8 @@
 ### Агрегации
 
 ## Шаблоны проектирования
+1. SOLID
+1. DRY
+1. Основные шаблоны: builder, factory, adapter, decorator/proxy, visitor, chain of responsibilities
 1. Чем отличается адаптер от декоратора
+
