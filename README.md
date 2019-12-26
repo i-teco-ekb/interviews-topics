@@ -14,6 +14,15 @@
 
 
 ### Многопоточность
+1. wait, notify, notifyAll
+1. syncronized
+1. Методы Thread: run, join, yield
+1. Прерывание потоков
+1. Доступ к памяти, volatile
+1. Java Memory Model
+1. Locks
+1. Executors
+1. Синхронизация потоков: Semaphore, CountDownLatch, CyclicBarrier, Exchanger<V>, Phaser
 
 ## Spring
 
