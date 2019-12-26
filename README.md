@@ -67,6 +67,7 @@
 1. Отличие RabbitMQ от Kaffka
 
 ## Шаблоны проектирования
+1. Принципы ООП
 1. SOLID
 1. DRY
 1. Основные шаблоны: builder, factory, adapter, decorator/proxy, visitor, chain of responsibilities
