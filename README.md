@@ -74,7 +74,7 @@
 1. Особенности исполнения кода в Hotspot
 1. AOT и JIT компиляция
 1. Устройство памяти в JVM: Stack, Heap, Code
-1. 
+1. Какие сборщики мусора знаете: Serial, Parallel, Concurrent Mark Sweep (CMS), Garbage-First (G1)
 
 ## Шаблоны проектирования
 1. Принципы ООП
