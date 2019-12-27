@@ -6,6 +6,7 @@
 1. Интерфейсы и абстрактные классы
 1. Генерики
 1. Пулы констант
+1. Способы конкантенации строк: [StringBuilder, StringBuffer, +, String.concat, String.format, String.join, Arrays.join, StringJoiner, Collectors.joining](https://www.baeldung.com/java-strings-concatenation)
 
 ### Object
 1. Какие методы в Object
@@ -42,6 +43,7 @@
 1. Принцип работы Atomic* классов, отличия от Volatile и syncronized
 
 ## Spring
+1. Dependency Injection - что это и зачем нужно
 1. Жизненный цикл бинов
 1. Способы получения бинов в классе: Autowired, constructor. Преимущества и недостатки методов.
 1. Как получить prototype из singleton бина
@@ -56,6 +58,15 @@
 1. Проблема N+1 и способы ее решения: fetch size, cache, join query
 
 ## SQL
+
+### Общие вопросы
+1. Нормализация и денормализация таблиц, нормальные формы
+1. Типы связей между таблицами и способы их реализации: one2many, one2one, many2many
+
+### Индексы
+1. Типы индексов: Hash, Tree
+1. Композитные индексы
+1. Функциональные индексы
 
 ### Транзакции
 1. Уровни изоляции транзакций
@@ -81,6 +92,7 @@
 1. AOT и JIT компиляция
 1. Устройство памяти в JVM: Stack, Heap, Code
 1. Какие сборщики мусора знаете: Serial, Parallel, Concurrent Mark Sweep (CMS), Garbage-First (G1)
+1. Способы вызова: автоматически, System.gc()
 
 ## Шаблоны проектирования
 1. Принципы ООП
