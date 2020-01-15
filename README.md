@@ -42,6 +42,9 @@
 1. Синхронизация потоков: Semaphore, CountDownLatch, CyclicBarrier, Exchanger<V>, Phaser
 1. Принцип работы Atomic* классов, отличия от Volatile и syncronized
 1. Как добиться/избежать deadlock
+  
+### Java extended
+1. Типы ссылок: Solid, Soft, Weak, Phantom
 
 ## Spring
 1. Dependency Injection - что это и зачем нужно
@@ -50,6 +53,7 @@
 1. Как получить prototype из singleton бина
 1. Реализация AOP
 1. Прямой доступ к методам класса и через бины: proxy
+1. Типы создания прокси: наследованием и интерфейс
 
 ## JPA
 
