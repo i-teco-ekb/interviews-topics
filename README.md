@@ -41,6 +41,7 @@
 1. Executors
 1. Синхронизация потоков: Semaphore, CountDownLatch, CyclicBarrier, Exchanger<V>, Phaser
 1. Принцип работы Atomic* классов, отличия от Volatile и syncronized
+1. Как добиться/избежать deadlock
 
 ## Spring
 1. Dependency Injection - что это и зачем нужно
