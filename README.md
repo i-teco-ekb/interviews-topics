@@ -4,7 +4,7 @@
 
 ### Общее
 1. Интерфейсы и абстрактные классы
-1. [Генерики и bridge-методы](https://habr.com/ru/company/sberbank/blog/416413/)
+1. Генерики, [работа с типами](https://habr.com/ru/company/sberbank/blog/416413/) и [bridge-методы](https://docs.oracle.com/javase/tutorial/java/generics/bridgeMethods.html)
 1. Пулы констант
 1. Способы конкантенации строк: [StringBuilder, StringBuffer, +, String.concat, String.format, String.join, Arrays.join, StringJoiner, Collectors.joining](https://www.baeldung.com/java-strings-concatenation)
 
