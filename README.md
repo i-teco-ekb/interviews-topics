@@ -21,7 +21,7 @@
 1. Устройство и типы Set
 1. Требования к ключу для TreeMap: compareTo
 1. Различие между ArrayList и LinkedList, применение LinkedList
-1. Конкуренция с коллекциями: Collections.syncronized*, [concurrentHashMap et al](https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/package-summary.html)
+1. Конкуренция с коллекциями: [Collections.syncronized*](https://docs.oracle.com/javase/8/docs/api/java/util/Collections.html), [concurrentHashMap et al](https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/package-summary.html)
 
 ### Исключения
 1. Основные классы исключений
