@@ -4,7 +4,7 @@
 
 ### Общее
 1. Интерфейсы и абстрактные классы
-1. Генерики
+1. [Генерики и bridge-методы](https://habr.com/ru/company/sberbank/blog/416413/)
 1. Пулы констант
 1. Способы конкантенации строк: [StringBuilder, StringBuffer, +, String.concat, String.format, String.join, Arrays.join, StringJoiner, Collectors.joining](https://www.baeldung.com/java-strings-concatenation)
 
@@ -114,6 +114,7 @@
 ## Микросервисы
 1. Причины разбивки монолита на микросервисы
 1. Реализация транзакций в микросервисной архитектуре
+1. 12-factor application
 1. Saga-pattern
 1. Cirquit Breaker
 1. Способы реализации обмена между микросевисами, преимущества и недостатки: Rest, JMS
